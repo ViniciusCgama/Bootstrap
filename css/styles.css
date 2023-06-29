@@ -1,0 +1,84 @@
+/* CSS personalizado */
+
+/* Estilizando o cabeçalho */
+.navbar-brand {
+    font-weight: bold;
+    color: #ff5e3a;
+  }
+  
+  .nav-link {
+    color: #333;
+    font-size: 18px;
+  }
+  
+  .nav-link:hover {
+    color: #ff5e3a;
+  }
+  
+  /* Estilizando o herói */
+  .hero {
+    background-color: #ffe6e6;
+    padding: 100px 0;
+    text-align: center;
+  }
+  
+  .hero h1 {
+    font-size: 48px;
+    margin-bottom: 20px;
+    color: red;
+  }
+  
+  .hero p {
+    font-size: 20px;
+    margin-bottom: 40px;
+    color: #333;
+  }
+  
+  /* Estilizando os botões */
+  .btn-primary {
+    background-color: #ff5e3a;
+    border-color: #ff5e3a;
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn-primary:hover {
+    background-color: #ff3e1a;
+    border-color: #ff3e1a;
+  }
+  
+  /* Estilizando os recursos */
+  .features {
+    background-color: #fff5f5;
+    padding: 80px 0;
+  }
+  
+  .features .feature-item {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  
+  .features .feature-item i {
+    font-size: 50px;
+    color: #ff5e3a;
+    margin-bottom: 20px;
+  }
+  
+  .features .feature-item h3 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .features .feature-item p {
+    font-size: 16px;
+    color: #555;
+  }
+  
+  /* Estilizando o rodapé */
+  footer {
+    font-size: 14px;
+    color: #fff;
+    background-color: #333;
+    padding: 20px 0;
+  }
+  
